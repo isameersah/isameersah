@@ -4,7 +4,6 @@
 
 🎓 Currently learning <b> Ethical Hacking </b> & <b>Networking</b> at Islington College <i>(affiliated with London Metropolitan University)</i>
 
-🎓 currently learning **Ethical Hacking & Networking** at _Islington College_ (affiliated with London Metropolitan University)  
 🌐 check out my portfolio at [sameersah.com.np](https://sameersah.com.np)  
 🛠️ skilled in **Kali Linux**, **AWS**, **WordPress**, **HTML/CSS/JS**, **Vercel**, and **Networking**  
 ⚡ always exploring the world of **TECH** & security
