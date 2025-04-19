@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-## Hello World! I'm Sameer, a Cybersecurity & Networking Enthusiast 👨🏽‍💻
+## Hello World! I'm Sameer, a Cybersecurity & Networking Student 👨🏽‍💻
 
 🎓 Currently learning <b> Ethical Hacking </b> & <b>Networking</b> at Islington College <i>(affiliated with London Metropolitan University)</i>
 
